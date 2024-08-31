@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/gulp coffee/09 Challenge_ Gulp Roast About Page_files"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Buzzetta-M9-Gulp-Coffee"
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "chrome",
+				"name": "http://127.0.0.1:3000/index.html",
+				"request": "launch",
+				"url": "http://127.0.0.1:3000/index.html"
+			}
+		]
+	}
+}
